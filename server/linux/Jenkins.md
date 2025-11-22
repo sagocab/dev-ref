@@ -31,6 +31,8 @@ Environment="JENKINS_PORT=9191"
 $ sudo systemctl stop jenkins
 $ sudo systemctl daemon-reload
 $ sudo systemctl start jenkins
-
-
 ```
+### 젠킨스 웹 주소
+http://localhost:9191/
+-- 
+id / pwd : sagocab/1004jung!
